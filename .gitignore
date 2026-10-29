@@ -1,0 +1,4 @@
+datos\_curso.sqlite\
+\_\_pycache\_\_/\
+\*.pyc\
+.env
